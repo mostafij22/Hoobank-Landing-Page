@@ -1,0 +1,16 @@
+
+.col-align{
+    text-align: center;
+}
+
+.footer-bottom {
+    border-top: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icon i{
+    color: #FFFFFF;
+    padding: 0 10px;
+}
+

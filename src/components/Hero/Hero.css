@@ -1,0 +1,51 @@
+
+
+.robot-image img{
+    width: 100%;
+}
+
+.hero-details{
+    display: flex;
+    align-items: center;
+    
+}
+
+.hero-details>div{
+    margin-left: 6rem;
+}
+
+.hero-text{
+    color: #DEF9FA;
+    
+}
+.hero-text h1{
+    font-size: 72px;
+}
+
+.hero-text h1:nth-child(2){
+    color: #33BBCF;
+}
+
+.hero-para{
+  max-width: 60%;
+  margin-top: 2rem;
+}
+
+.get-start{
+    position: absolute;
+    top: 35px;
+    right: 35px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 1rem;
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+}
+.get-start a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+

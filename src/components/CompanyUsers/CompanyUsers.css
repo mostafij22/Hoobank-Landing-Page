@@ -1,0 +1,7 @@
+.active-user,
+.trusted-company,
+.transaction{
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+}

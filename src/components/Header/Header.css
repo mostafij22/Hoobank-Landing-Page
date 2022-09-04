@@ -1,0 +1,13 @@
+
+.navbar{
+    padding: 2rem;
+}
+.navbar-brand img{
+    height: 3rem;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+

@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: #00040F!important;
+    color: white!important;;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}

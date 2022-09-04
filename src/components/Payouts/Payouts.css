@@ -1,0 +1,28 @@
+
+.bill-img{
+    padding: 50px 50px 50px 0;
+}
+
+.bill-img img{
+    width: 100%;
+}
+
+.payout-content{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+   
+}
+.payout-content>h2{
+    font-size: 50px;
+    margin-left: 25px;
+}
+.payout-content>p{
+    font-size: 20px;
+    margin-left: 25px;
+}
+.apps img{
+    margin-right: 20px;
+    margin-left: 25px;
+}
+
